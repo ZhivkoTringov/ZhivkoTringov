@@ -18,7 +18,6 @@
 
 <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="postgresql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="sequelize" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" />
 <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
