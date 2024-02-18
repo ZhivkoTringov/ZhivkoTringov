@@ -1,5 +1,7 @@
 ## 👋 Introduction & Bio
 ### Hi, I am Zhivko Tringov
+
+
 <a href="https://www.linkedin.com/in/zhivko-tringov-3ba9b6127/">
   <img align="left" alt="Zhivko's LinkedIn" width="25px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
 </a>
@@ -26,10 +28,10 @@
 <img align="left" alt="Django" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
 <img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="AWS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="GitHub Actions" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg"
-<img align="left" alt="Jira" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"
-<img align="left" alt="Terraform" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg"
-<img align="left" alt="Grafana" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg"
-<img align="left" alt="Prometheus" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg"
+<img align="left" alt="GitHub Actions" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" />
+<img align="left" alt="Jira" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" />
+<img align="left" alt="Terraform" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" />
+<img align="left" alt="Grafana" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" />
+<img align="left" alt="Prometheus" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" />
 
 <br><br><br><br>
